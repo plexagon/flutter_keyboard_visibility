@@ -17,7 +17,7 @@ flutter:
 
 dependencies:
   flutter_keyboard_visibility_platform_interface: ^2.0.0
-  web: ^0.5.0
+  web: ^1.0.0
   flutter_web_plugins:
     sdk: flutter
   flutter:
